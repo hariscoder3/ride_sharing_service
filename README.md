@@ -1,7 +1,6 @@
-# Uber-Clone-Spring-Boot-Project
-Uber Clone
+# Ride-Sharing-app
 
-A Spring Boot-based application simulating a ride-hailing service.
+A Spring Boot-based application simulating a ride-sharing service.
 
 Features:
 
