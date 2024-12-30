@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Ride-Sharing-App
+=======
+# Ride-Sharing-app
+>>>>>>> 571f0e82b2ce77b981fb6c3b48e713d469fb03c6
 
 A Spring Boot-based application simulating a ride-sharing service.
 
