@@ -1,11 +1,11 @@
 package com.codingshuttle.project.uber.uberApp.services.impl;
 
-import com.codingshuttle.project.uber.uberApp.dto.SignupDto;
-import com.codingshuttle.project.uber.uberApp.dto.UserDto;
-import com.codingshuttle.project.uber.uberApp.entities.User;
-import com.codingshuttle.project.uber.uberApp.entities.enums.Role;
-import com.codingshuttle.project.uber.uberApp.repositories.UserRepository;
-import com.codingshuttle.project.uber.uberApp.security.JWTService;
+import com.codingshuttle.project.uber.RideApp.dto.SignupDto;
+import com.codingshuttle.project.uber.RideApp.dto.UserDto;
+import com.codingshuttle.project.uber.RideApp.entities.User;
+import com.codingshuttle.project.uber.RideApp.entities.enums.Role;
+import com.codingshuttle.project.uber.RideApp.repositories.UserRepository;
+import com.codingshuttle.project.uber.RideApp.security.JWTService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

@@ -1,12 +1,11 @@
 package com.codingshuttle.project.uber.uberApp.controllers;
 
-import com.codingshuttle.project.uber.uberApp.TestContainerConfiguration;
-import com.codingshuttle.project.uber.uberApp.dto.OnboardDriverDto;
-import com.codingshuttle.project.uber.uberApp.dto.SignupDto;
-import com.codingshuttle.project.uber.uberApp.entities.User;
-import com.codingshuttle.project.uber.uberApp.entities.enums.Role;
-import com.codingshuttle.project.uber.uberApp.repositories.RiderRepository;
-import com.codingshuttle.project.uber.uberApp.repositories.UserRepository;
+import com.codingshuttle.project.uber.RideApp.dto.OnboardDriverDto;
+import com.codingshuttle.project.uber.RideApp.dto.SignupDto;
+import com.codingshuttle.project.uber.RideApp.entities.User;
+import com.codingshuttle.project.uber.RideApp.entities.enums.Role;
+import com.codingshuttle.project.uber.RideApp.repositories.RiderRepository;
+import com.codingshuttle.project.uber.RideApp.repositories.UserRepository;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
