@@ -1,9 +1,9 @@
 package com.codingshuttle.project.uber.RideApp.dto;
 
-import com.codingshuttle.project.uber.uberApp.entities.Ride;
-import com.codingshuttle.project.uber.uberApp.entities.Wallet;
-import com.codingshuttle.project.uber.uberApp.entities.enums.TransactionMethod;
-import com.codingshuttle.project.uber.uberApp.entities.enums.TransactionType;
+import com.codingshuttle.project.uber.RideApp.entities.Ride;
+import com.codingshuttle.project.uber.RideApp.entities.Wallet;
+import com.codingshuttle.project.uber.RideApp.entities.enums.TransactionMethod;
+import com.codingshuttle.project.uber.RideApp.entities.enums.TransactionType;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 import lombok.Builder;

@@ -1,7 +1,7 @@
 package com.codingshuttle.project.uber.RideApp.dto;
 
-import com.codingshuttle.project.uber.uberApp.entities.enums.PaymentMethod;
-import com.codingshuttle.project.uber.uberApp.entities.enums.RideRequestStatus;
+import com.codingshuttle.project.uber.RideApp.entities.enums.PaymentMethod;
+import com.codingshuttle.project.uber.RideApp.entities.enums.RideRequestStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

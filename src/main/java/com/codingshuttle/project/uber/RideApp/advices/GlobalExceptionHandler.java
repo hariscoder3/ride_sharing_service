@@ -1,7 +1,7 @@
 package com.codingshuttle.project.uber.RideApp.advices;
 
-import com.codingshuttle.project.uber.uberApp.exceptions.ResourceNotFoundException;
-import com.codingshuttle.project.uber.uberApp.exceptions.RuntimeConflictException;
+import com.codingshuttle.project.uber.RideApp.exceptions.ResourceNotFoundException;
+import com.codingshuttle.project.uber.RideApp.exceptions.RuntimeConflictException;
 import io.jsonwebtoken.JwtException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,7 +1,7 @@
 package com.codingshuttle.project.uber.RideApp.dto;
 
-import com.codingshuttle.project.uber.uberApp.entities.enums.PaymentMethod;
-import com.codingshuttle.project.uber.uberApp.entities.enums.RideStatus;
+import com.codingshuttle.project.uber.RideApp.entities.enums.PaymentMethod;
+import com.codingshuttle.project.uber.RideApp.entities.enums.RideStatus;
 import lombok.Data;
 import org.locationtech.jts.geom.Point;
 

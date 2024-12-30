@@ -1,6 +1,6 @@
-package com.codingshuttle.project.uber.uberApp.configs;
+package com.codingshuttle.project.uber.RideApp.configs;
 
-import com.codingshuttle.project.uber.uberApp.security.JwtAuthFilter;
+import com.codingshuttle.project.uber.RideApp.security.JwtAuthFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

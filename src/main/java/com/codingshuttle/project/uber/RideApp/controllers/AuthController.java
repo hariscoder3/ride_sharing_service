@@ -1,7 +1,7 @@
-package com.codingshuttle.project.uber.uberApp.controllers;
+package com.codingshuttle.project.uber.RideApp.controllers;
 
-import com.codingshuttle.project.uber.uberApp.dto.*;
-import com.codingshuttle.project.uber.uberApp.services.AuthService;
+import com.codingshuttle.project.uber.RideApp.dto.*;
+import com.codingshuttle.project.uber.RideApp.services.AuthService;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

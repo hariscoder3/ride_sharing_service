@@ -1,7 +1,7 @@
-package com.codingshuttle.project.uber.uberApp.controllers;
+package com.codingshuttle.project.uber.RideApp.controllers;
 
-import com.codingshuttle.project.uber.uberApp.dto.*;
-import com.codingshuttle.project.uber.uberApp.services.RiderService;
+import com.codingshuttle.project.uber.RideApp.dto.*;
+import com.codingshuttle.project.uber.RideApp.services.RiderService;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

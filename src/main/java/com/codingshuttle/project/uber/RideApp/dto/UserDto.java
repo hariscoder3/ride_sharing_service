@@ -1,6 +1,6 @@
 package com.codingshuttle.project.uber.RideApp.dto;
 
-import com.codingshuttle.project.uber.uberApp.entities.enums.Role;
+import com.codingshuttle.project.uber.RideApp.entities.enums.Role;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
